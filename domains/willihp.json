@@ -1,0 +1,12 @@
+{
+  "description": "Panel de inventario y gestión de mi home lab (Ecosistema-Web)",
+  "repo": "https://github.com/is-a-dev/register",
+  "owner": {
+    "username": "WonderJobs",
+    "email": "studyworkprivate@gmail.com"
+  },
+  "records": {
+    "CNAME": "f18f4f3d-9e52-48f4-842e-f9135d1ea995.cfargotunnel.com"
+  },
+  "proxied": true
+}
